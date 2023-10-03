@@ -1,0 +1,1442 @@
+[
+    {
+        "id": "87542199",
+        "name": "Оператор на входящие сообщения (удаленно, в Яндекс)",
+        "salary_from": 30000,
+        "salary_to": 44000,
+        "url": "https://api.hh.ru/vacancies/87542199?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87542065",
+        "name": "Менеджер чатов, удалённо (в Яндекс)",
+        "salary_from": 30000,
+        "salary_to": 44000,
+        "url": "https://api.hh.ru/vacancies/87542065?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87542103",
+        "name": "Менеджер чатов на дому (в Яндекс)",
+        "salary_from": 30000,
+        "salary_to": 44000,
+        "url": "https://api.hh.ru/vacancies/87542103?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87542153",
+        "name": "Диспетчер чатов, удаленно",
+        "salary_from": 30000,
+        "salary_to": 44000,
+        "url": "https://api.hh.ru/vacancies/87542153?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87542041",
+        "name": "Удаленный диспетчер чатов (в Яндекс)",
+        "salary_from": 30000,
+        "salary_to": 44000,
+        "url": "https://api.hh.ru/vacancies/87542041?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87541912",
+        "name": "Удаленный специалист службы поддержки (в Яндекс)",
+        "salary_from": 30000,
+        "salary_to": 44000,
+        "url": "https://api.hh.ru/vacancies/87541912?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87614727",
+        "name": "Продюсер в команду культуры, комьюнити и внутренних коммуникаций",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87614727?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87629576",
+        "name": "Младший юрисконсульт",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87629576?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87689835",
+        "name": "Аналитик - исследователь",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87689835?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87654452",
+        "name": "Senior strategy and economics manager",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87654452?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87644805",
+        "name": "Менеджер по работе с продуктом",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87644805?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87644806",
+        "name": "Менеджер по работе с продуктом",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87644806?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87430458",
+        "name": "Стажёр в отдел управления проектами",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87430458?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87660489",
+        "name": "Руководитель группы продаж B2B",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87660489?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "86857295",
+        "name": "Специалист по документообороту",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86857295?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87479552",
+        "name": "Менеджер по контрактам в Крауд",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87479552?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87602028",
+        "name": "Менеджер по запуску новых проектов по обеспечению офисов",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87602028?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87583874",
+        "name": "Специалист по найму курьеров в Яндекс.Доставку (со знанием узбекского языка)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87583874?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87583872",
+        "name": "Специалист по найму курьеров в Яндекс.Доставку (со знанием узбекского языка)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87583872?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87583871",
+        "name": "Специалист по найму курьеров в Яндекс.Доставку (со знанием узбекского языка)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87583871?host=hh.ru",
+        "company_id": "1740"
+    },
+    {
+        "id": "87619231",
+        "name": "Менеджер по кадровому делопроизводству",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87619231?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "87545621",
+        "name": "Региональный аналитик Junior",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87545621?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "50815064",
+        "name": "Начинающий специалист",
+        "salary_from": 58000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/50815064?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "87585164",
+        "name": "Руководитель группы продаж",
+        "salary_from": 115000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87585164?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "87640735",
+        "name": "Специалист по работе с действующими клиентами",
+        "salary_from": 52800,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87640735?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "85600957",
+        "name": "Редактор-копирайтер",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/85600957?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "87347829",
+        "name": "Менеджер продукта в стартап",
+        "salary_from": 150000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87347829?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "82410972",
+        "name": "Начинающий специалист (удаленно)",
+        "salary_from": 50000,
+        "salary_to": 150000,
+        "url": "https://api.hh.ru/vacancies/82410972?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "87586834",
+        "name": "Менеджер по работе с клиентами (удаленно)",
+        "salary_from": 60000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87586834?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "75990802",
+        "name": "Специалист по работе с клиентами в IT–компанию",
+        "salary_from": 65000,
+        "salary_to": 120000,
+        "url": "https://api.hh.ru/vacancies/75990802?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "87642489",
+        "name": "Менеджер IT-проектов внедрения ЭДО",
+        "salary_from": 120000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87642489?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "87651301",
+        "name": "IT-специалист/Специалист технической поддержки",
+        "salary_from": 58000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87651301?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "51057138",
+        "name": "Специалист по работе с клиентами (действующие клиенты)",
+        "salary_from": 55000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/51057138?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "86365929",
+        "name": "Менеджер по продажам",
+        "salary_from": 50000,
+        "salary_to": 80000,
+        "url": "https://api.hh.ru/vacancies/86365929?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "86257463",
+        "name": "Аналитик",
+        "salary_from": 130000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86257463?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "86470184",
+        "name": "Аналитик данных (Middle)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86470184?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "87624677",
+        "name": "Product Owner в Контур.Школа",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87624677?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "80638265",
+        "name": "Начинающий специалист",
+        "salary_from": 67000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/80638265?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "45839137",
+        "name": "Начинающий специалист",
+        "salary_from": 50000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/45839137?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "46537005",
+        "name": "Начинающий специалист",
+        "salary_from": 67000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/46537005?host=hh.ru",
+        "company_id": "41862"
+    },
+    {
+        "id": "87623607",
+        "name": "Стажер Python-разработчик (GigaChat)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87623607?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87648611",
+        "name": "LegalTech-юрист",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87648611?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "86335297",
+        "name": "Специалист Сбер (удаленно)",
+        "salary_from": 47000,
+        "salary_to": 77000,
+        "url": "https://api.hh.ru/vacancies/86335297?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87673441",
+        "name": "Менеджер проектов (СберТранспорт)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87673441?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "86335149",
+        "name": "Специалист контактного центра (удаленно)",
+        "salary_from": 47000,
+        "salary_to": 77000,
+        "url": "https://api.hh.ru/vacancies/86335149?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87678883",
+        "name": "Старший специалист в организационно-административный отдел",
+        "salary_from": 48000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87678883?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87683226",
+        "name": "Sales manager (IT)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87683226?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87675426",
+        "name": "Руководитель отдела аналитики (СберСпасибо)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87675426?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87676790",
+        "name": "Стажер (системный анализ)",
+        "salary_from": 40000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87676790?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87659794",
+        "name": "Менеджер (аналитик)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87659794?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87684515",
+        "name": "Юрист-аналитик",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87684515?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87628735",
+        "name": "Руководитель юридического направления",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87628735?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87671947",
+        "name": "Специалист в отдел обеспечения эмиссии",
+        "salary_from": 48800,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87671947?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87674767",
+        "name": "Стажер (нагрузочное тестирование)",
+        "salary_from": 40000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87674767?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "82140117",
+        "name": "Старший менеджер по работе с ключевыми клиентами",
+        "salary_from": 195500,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/82140117?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87647224",
+        "name": "Водитель (персональный)",
+        "salary_from": 0,
+        "salary_to": 52000,
+        "url": "https://api.hh.ru/vacancies/87647224?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87686575",
+        "name": "Java разработчик",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87686575?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87596953",
+        "name": "Data Engineer (стажер)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87596953?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87622599",
+        "name": "Стажер в Центр управления исследований и инноваций Сбера",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87622599?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87638134",
+        "name": "Персональный менеджер Премьер",
+        "salary_from": 84100,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87638134?host=hh.ru",
+        "company_id": "3529"
+    },
+    {
+        "id": "87662672",
+        "name": "Сборщик-наладчик БПЛА",
+        "salary_from": 60000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87662672?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "87418323",
+        "name": "Специалист отдела бакалавриата и магистратуры",
+        "salary_from": 50000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87418323?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "87410156",
+        "name": "Графический дизайнер",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87410156?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "87397064",
+        "name": "Аналитик Центра беспилотных технологий",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87397064?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "87491644",
+        "name": "Специалист тендерного отдела",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87491644?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "87616730",
+        "name": "Продакт-менеджер",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87616730?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "87285693",
+        "name": "Помощник проректора",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87285693?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "86653954",
+        "name": "Менеджер проектов",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86653954?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "86990432",
+        "name": "Менеджер по организации мероприятий",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86990432?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "85562542",
+        "name": "HR менеджер",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/85562542?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "86981437",
+        "name": "Специалист по работе с клиентами",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86981437?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "86315592",
+        "name": "Специалист отдела кадров",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86315592?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "86614740",
+        "name": "Станочник широкого профиля",
+        "salary_from": 80000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86614740?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "86986175",
+        "name": "Делопроизводитель",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86986175?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "83693344",
+        "name": "Старший специалист по миграционному учету",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/83693344?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "83107202",
+        "name": "Специалист отдела аспирантуры",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/83107202?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "87519511",
+        "name": "Преподаватель ИТ-дисциплин",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87519511?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "86331141",
+        "name": "Project manager (Центр беспилотных технологий)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86331141?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "87616137",
+        "name": "Интернет-маркетолог",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87616137?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "85201614",
+        "name": "Монтажник-испытатель электронных систем управления",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/85201614?host=hh.ru",
+        "company_id": "1160188"
+    },
+    {
+        "id": "87594169",
+        "name": "Бизнес-аналитик",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87594169?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "87685905",
+        "name": "HR бизнес партнер (Центральный Университет)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87685905?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "87332915",
+        "name": "Специалист поддержки HR-процессов",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87332915?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "87619430",
+        "name": "Data-инженер",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87619430?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "87332727",
+        "name": "Специалист поддержки HR-процессов",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87332727?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "87681641",
+        "name": "Разработчик электронных курсов",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87681641?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "87662655",
+        "name": "Product marketing manager",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87662655?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "87653760",
+        "name": "Key account manager (Отели)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87653760?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "86460427",
+        "name": "Специалист контроля качества продаж",
+        "salary_from": 120000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86460427?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "87651791",
+        "name": "Project manager (Единая платформа найма)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87651791?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "87619318",
+        "name": "Data-инженер",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87619318?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "87680887",
+        "name": "Инженер технической поддержки торгового эквайринга",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87680887?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "86200136",
+        "name": "Продуктовый аналитик",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86200136?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "87685846",
+        "name": "HR бизнес партнер",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87685846?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "84510240",
+        "name": "Начинающий специалист в аэропорт",
+        "salary_from": 100000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/84510240?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "86209889",
+        "name": "HR координатор",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86209889?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "87686236",
+        "name": "Руководитель площадки продаж",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87686236?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "87036980",
+        "name": "Project manager",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87036980?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "85718610",
+        "name": "Персональный водитель",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/85718610?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "86263167",
+        "name": "Аналитик сопровождения",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86263167?host=hh.ru",
+        "company_id": "78638"
+    },
+    {
+        "id": "79821071",
+        "name": "Специалист линии технической поддержки",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/79821071?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "78853258",
+        "name": "Специалист технической поддержки пользователей",
+        "salary_from": 37000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/78853258?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "78853119",
+        "name": "Вечерний специалист технической поддержки",
+        "salary_from": 36000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/78853119?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "87281603",
+        "name": "Web-разработчик (Международные проекты)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87281603?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "87517468",
+        "name": "Программист С++",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87517468?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "86286491",
+        "name": "Специалист отдела консультационной и технической поддержи",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86286491?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "87274158",
+        "name": "Тестировщик 1С",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87274158?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "87281734",
+        "name": "Системный администратор Linux",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87281734?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "83905422",
+        "name": "Методист по 1С",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/83905422?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "82524380",
+        "name": "Тестировщик 1С",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/82524380?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "85066437",
+        "name": "Специалист технической поддержки ПО 1С",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/85066437?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "86350630",
+        "name": "Ведущий разработчик 1С (машинное обучение)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86350630?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "83604663",
+        "name": "Менеджер по работе с партнерами",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/83604663?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "86909961",
+        "name": "Тестировщик ПО",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86909961?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "87281660",
+        "name": "Разработчик 1С (Международные проекты)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87281660?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "78138321",
+        "name": "Разработчик тиражных решений 1С (Вьетнам)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/78138321?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "86353966",
+        "name": "Специалист по тестированию 1С:Бухгалтерия Предприятия",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86353966?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "86661927",
+        "name": "Менеджер по развитию партнерской сети",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86661927?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "29632598",
+        "name": "Программист 1С/Разработчик 1С на платформе 1С 8",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/29632598?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "86557805",
+        "name": "Java-разработчик",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86557805?host=hh.ru",
+        "company_id": "882"
+    },
+    {
+        "id": "87628665",
+        "name": "Стажер в департамент маркетинга Web&Digital KasperkyOS",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87628665?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "87598434",
+        "name": "Стажер-инженер по тестированию",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87598434?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "87614095",
+        "name": "Digital Marketing Specialist",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87614095?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "87211900",
+        "name": "Стажер в IT",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87211900?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "87533667",
+        "name": "Аналитик",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87533667?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "87687766",
+        "name": "Junior Incident Response Specialist",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87687766?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "87006386",
+        "name": "Младший специалист по работе с персоналом / Junior HR Specialist",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87006386?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "87678940",
+        "name": "Стажер в Digital Retention",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87678940?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "87139269",
+        "name": "Стажер в команду Corporate Products",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87139269?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "87626542",
+        "name": "Junior System Engineer (DDoS)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87626542?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "86735293",
+        "name": "Стажер в отдел PR HQ",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86735293?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "82285533",
+        "name": "Стажер технический писатель",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/82285533?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "86656928",
+        "name": "JavaScript Developer (KSC)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86656928?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "86066800",
+        "name": "Менеджер образовательных программ",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86066800?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "87333915",
+        "name": "Testing Engineer / Инженер по тестированию (KSM, KasperskyOS)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87333915?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "83817868",
+        "name": "Communication lead (KasperskyOS)",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/83817868?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "86766596",
+        "name": "Key account manager",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86766596?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "86536337",
+        "name": "Стажер в B2B маркетинг",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86536337?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "86243167",
+        "name": "Financial Reporting Lead",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86243167?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "86784125",
+        "name": "Стажер в presale",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86784125?host=hh.ru",
+        "company_id": "1057"
+    },
+    {
+        "id": "87577823",
+        "name": "Контент-менеджер (удаленно)",
+        "salary_from": 35000,
+        "salary_to": 42000,
+        "url": "https://api.hh.ru/vacancies/87577823?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "85064695",
+        "name": "Ассистент по документообороту",
+        "salary_from": 47000,
+        "salary_to": 47000,
+        "url": "https://api.hh.ru/vacancies/85064695?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "87444901",
+        "name": "Специалист по работе со входящими заявками (удаленно)",
+        "salary_from": 50000,
+        "salary_to": 73000,
+        "url": "https://api.hh.ru/vacancies/87444901?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "87565895",
+        "name": "Специалист службы поддержки клиентов",
+        "salary_from": 38000,
+        "salary_to": 50000,
+        "url": "https://api.hh.ru/vacancies/87565895?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "87372563",
+        "name": "Специалист электронного документооборота",
+        "salary_from": 75000,
+        "salary_to": 75000,
+        "url": "https://api.hh.ru/vacancies/87372563?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "87685995",
+        "name": "Product Marketing Manager / Продуктовый маркетолог b2b",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87685995?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "87331574",
+        "name": "Технический руководитель направления",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87331574?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "87455332",
+        "name": "Менеджер по оптимизации процессов / Менеджер операционных проектов",
+        "salary_from": 0,
+        "salary_to": 120000,
+        "url": "https://api.hh.ru/vacancies/87455332?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "86780666",
+        "name": "Консультант по ипотеке (удаленно)",
+        "salary_from": 48000,
+        "salary_to": 70000,
+        "url": "https://api.hh.ru/vacancies/86780666?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "86906180",
+        "name": "Консультант по ипотеке (удаленно)",
+        "salary_from": 48000,
+        "salary_to": 70000,
+        "url": "https://api.hh.ru/vacancies/86906180?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "86906179",
+        "name": "Консультант по ипотеке (удаленно)",
+        "salary_from": 48000,
+        "salary_to": 70000,
+        "url": "https://api.hh.ru/vacancies/86906179?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "87462793",
+        "name": "Руководитель группы телемаркетинга",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87462793?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "81440367",
+        "name": "Специалист по работе со входящими заявками (удаленно)",
+        "salary_from": 50000,
+        "salary_to": 73000,
+        "url": "https://api.hh.ru/vacancies/81440367?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "86898022",
+        "name": "Специалист службы поддержки клиентов",
+        "salary_from": 38000,
+        "salary_to": 50000,
+        "url": "https://api.hh.ru/vacancies/86898022?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "86672182",
+        "name": "Модератор объявлений через звонки",
+        "salary_from": 27500,
+        "salary_to": 37300,
+        "url": "https://api.hh.ru/vacancies/86672182?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "85654158",
+        "name": "Телемаркетолог",
+        "salary_from": 48000,
+        "salary_to": 64000,
+        "url": "https://api.hh.ru/vacancies/85654158?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "86906177",
+        "name": "Консультант по ипотеке (удаленно)",
+        "salary_from": 48000,
+        "salary_to": 70000,
+        "url": "https://api.hh.ru/vacancies/86906177?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "85048172",
+        "name": "Специалист по кадровому делопроизводству",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/85048172?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "86011305",
+        "name": "Аналитик качества данных",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86011305?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "87419765",
+        "name": "Модератор объявлений через звонки",
+        "salary_from": 27500,
+        "salary_to": 37300,
+        "url": "https://api.hh.ru/vacancies/87419765?host=hh.ru",
+        "company_id": "1429999"
+    },
+    {
+        "id": "87404312",
+        "name": "Менеджер по контролю качества (call-центр)",
+        "salary_from": 0,
+        "salary_to": 100000,
+        "url": "https://api.hh.ru/vacancies/87404312?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "87494301",
+        "name": "Программист Баз данных/SQL",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87494301?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "87540734",
+        "name": "Товаровед",
+        "salary_from": 50000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87540734?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "87540250",
+        "name": "Бренд - менеджер",
+        "salary_from": 0,
+        "salary_to": 150000,
+        "url": "https://api.hh.ru/vacancies/87540250?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "76451967",
+        "name": "Персональный консультант в интернет-магазин",
+        "salary_from": 90000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/76451967?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "85200041",
+        "name": "Работник склада",
+        "salary_from": 80000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/85200041?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "87617242",
+        "name": "Специалист по предпродажной подготовке (отдел брака)",
+        "salary_from": 72000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87617242?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "87165161",
+        "name": "Водитель-экспедитор на корпоративном автомобиле",
+        "salary_from": 100000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87165161?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "87688212",
+        "name": "Бухгалтер по расчетам с персоналом",
+        "salary_from": 0,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87688212?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "87290280",
+        "name": "Кладовщик",
+        "salary_from": 65000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87290280?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "86470404",
+        "name": "Кассир (ТЦ Горизонт)",
+        "salary_from": 55000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86470404?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "86274207",
+        "name": "Водитель-экспедитор на личном грузовом автомобиле",
+        "salary_from": 200000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86274207?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "86565780",
+        "name": "Персональный консультант в интернет-магазин",
+        "salary_from": 90000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86565780?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "87618101",
+        "name": "Уборщица/уборщик",
+        "salary_from": 72000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87618101?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "82729121",
+        "name": "Кассир (ТЦ Невский Центр)",
+        "salary_from": 70000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/82729121?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "86565706",
+        "name": "Персональный консультант в интернет-магазин",
+        "salary_from": 90000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86565706?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "87192212",
+        "name": "Водитель доставки",
+        "salary_from": 100000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87192212?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "86709186",
+        "name": "Электрик",
+        "salary_from": 100000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/86709186?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "81030188",
+        "name": "Продавец-консультант (ТЦ Невский Центр)",
+        "salary_from": 90000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/81030188?host=hh.ru",
+        "company_id": "26250"
+    },
+    {
+        "id": "87477851",
+        "name": "Ревизор контрольно-ревизионного отдела",
+        "salary_from": 85000,
+        "salary_to": 0,
+        "url": "https://api.hh.ru/vacancies/87477851?host=hh.ru",
+        "company_id": "26250"
+    }
+]
